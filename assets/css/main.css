@@ -1554,9 +1554,16 @@
 		background: #fff;
 	}
 
+
+@font-face {
+		font-family:  "museoslab-500";
+		src: url("../fonts/museoslab-500.otf");
+
+}
+
 	body, input, select, textarea {
 		color: #888;
-		font-family: "Lato", sans-serif;
+		font-family: "museoslab-500";
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
