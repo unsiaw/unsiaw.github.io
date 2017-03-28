@@ -1,2 +1,6 @@
 Este es el test original
+<<<<<<< HEAD
 matias!
+=======
+Ricky
+>>>>>>> 0785a1e5938f522d42277cf28f80c288f3a838b5
